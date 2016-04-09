@@ -1,4 +1,4 @@
-update=4/7/2016 10:19:56 AM
+update=4/9/2016 6:19:03 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,13 @@ LibName34=Rampz_library/RAMPZ_LIB
 LibName35=LM2596-ADJ
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
