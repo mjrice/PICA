@@ -1,4 +1,4 @@
-update=4/9/2016 6:19:03 PM
+update=4/30/2016 2:05:31 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -67,7 +67,7 @@ version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=C:/Users/Martin/Documents/GitHub/PICA/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=

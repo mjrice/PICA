@@ -1,0 +1,7 @@
+pica-B.Cu.gbr - Bottom side copper
+pica-B.Mask.gbr - Bottom side solder mask
+pica-B.SilkS.gbr - Bottom side silkscreen
+
+pica-F.Cu.gbr - Top side copper
+pica-F.Mask.gbr - Top side solder mask
+pica-F.SilkS.gbr - Top side silkscreen
